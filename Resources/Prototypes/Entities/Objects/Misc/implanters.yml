@@ -296,6 +296,9 @@
   parent: BaseImplantOnlyImplanter
   components:
     - type: Implanter
+      blacklist:
+        components:
+        - MindShield
       implant: MindShieldImplant
 
 # Centcomm implanters
@@ -322,4 +325,7 @@
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
+    blacklist:
+      components:
+      - MindShield
     implant: UnremoveableMindShieldImplant
