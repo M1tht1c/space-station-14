@@ -322,4 +322,4 @@
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
-    implant: UnremoveableMindshieldImplant
+    implant: UnremoveableMindShieldImplant
