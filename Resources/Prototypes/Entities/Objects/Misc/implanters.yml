@@ -297,8 +297,7 @@
   components:
   - type: Implanter
     implantBlacklist:
-      tags:
-      - UnremovableMindShield
+    - UnremovableMindShieldImplant
     implant: MindShieldImplant
 
 # Centcomm implanters
@@ -326,6 +325,5 @@
   components:
   - type: Implanter
     implantBlacklist:
-      tags:
-      - RemovableMindShield
+    - MindShieldImplant
     implant: UnremovableMindShieldImplant
