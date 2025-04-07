@@ -32,7 +32,7 @@
   - type: AutoImplant
     implants:
     - DeathRattleImplantCentcomm
-    - UnremoveableMindShieldImplant
+    - UnremovableMindShieldImplant
   - type: AntagImmune
 
 ## Death Squad
