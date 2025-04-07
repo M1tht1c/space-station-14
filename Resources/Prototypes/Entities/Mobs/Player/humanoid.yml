@@ -13,7 +13,7 @@
   components:
     - type: AutoImplant
       implants:
-      - UnremoveableMindshieldImplant
+      - UnremovableMindShieldImplant
     - type: AntagImmune
 
 - type: randomHumanoidSettings
